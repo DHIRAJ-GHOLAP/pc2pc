@@ -24,8 +24,8 @@ A Remote Access Tool (RAT) designed strictly for ethical purposes and educationa
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd RAT-Project/server
+   git clone https://github.com/DHIRAJ-GHOLAP/pc2pc.git
+   cd pc2pc/server
    ```
 
 2. **Install dependencies**:
